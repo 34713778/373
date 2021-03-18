@@ -1,4 +1,4 @@
-# Chemical
+
 library(readxl)
 library(sm)
 Chem_RD1 <- read_excel("Chem_RD1.xlsx")
